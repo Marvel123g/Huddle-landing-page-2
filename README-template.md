@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Marvel123g/Huddle-landing-page-2.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
