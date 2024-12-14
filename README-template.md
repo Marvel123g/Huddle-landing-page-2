@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Marvel123g/Huddle-landing-page-2.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://marvel123g.github.io/Huddle-landing-page-2/)
 
 ### Built with
 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Marvelous](https://marvel123g.github.io/Huddle-landing-page-2/)
 - Frontend Mentor - [@Marvel](https://www.frontendmentor.io/profile/Marvel123g)
 - Instagram - [@ma.rvellous971]
 
